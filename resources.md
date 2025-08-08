@@ -5,15 +5,17 @@ permalink: /resources/
 ---
 
 ### Product Management
-People often ask "What *is* a product manager?". I like Ken Norton's definition: "a technical, user-focused team leader working closely with engineers and designers to guide products". His [classic essay on how to hire product managers](https://www.bringthedonuts.com/essays/productmanager.html) doubles as instructions on how to be hired.
+People often ask "What *is* a product manager?". [Shreyas Doshi]((https://twitter.com/shreyas)) says the role is to "define the product & orchestrate actions across the org to enable its success". 
 
-The seminal book in the space has to be Marty Cagan's [*Inspired*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507).
+Another question we can ask is "*Why* do product managers exist?" Because of consumer choice. When the industrial age created consumer choice, companies needed to provide differentiated value through R&D and marketing - the brand and the brand manager were born. The internet age has exploded consumer choice even further. User experience is therefore critical to software; the customer voice must be embedded deeply into all parts of the software lifecycle - that's why software product managers exist.
+
+Ken Norton's [classic essay on how to hire product managers](https://www.bringthedonuts.com/essays/productmanager.html) doubles as instructions on how to be hired.
+
+The canonical book in the space is Marty Cagan's [*Inspired*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507). The canonical newsletter is [Lenny's](https://www.lennysnewsletter.com/).
 
 From the perspective of an investor-founder, Michael Seibel breaks down [building products at start ups](https://www.youtube.com/watch?v=C27RVio2rOs) with great clarity.
 
-If you follow one product person on twitter make it [Shreyas Doshi](https://twitter.com/shreyas).
-
-A lot of product training is probably over-priced garbage, [Jeff Patton's course](https://jpattonassociates.com/) is not, it's excellent.
+A lot of product training sucks, [Jeff Patton's course](https://jpattonassociates.com/) does not, it's great.
 
 Strategic thinking is key to product management, [*Good Strategy / Bad Strategy*](https://a.co/d/fYfWCyJ) is a defining modern text on the subject. Ben Thompson's [Statechery blog and podcast](https://stratechery.com/concepts/) analyzes tech news with a strategic lens.
 
@@ -22,32 +24,27 @@ If you are an enterprise product manager it pays to understand how companies ens
 ### Writing
 Good writing is indistinguishable from good thinking.
 
-[*The Sense of Style*](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century) defines style and how to develop a classical style. If you have less time, watch the [talk](https://www.youtube.com/watch?v=3ZKTmsgqi0U).
+[*The Sense of Style*](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century) defines style and teaches intuitively how to develop a classical style. If you have less time, watch the [talk](https://www.youtube.com/watch?v=3ZKTmsgqi0U).
 
 [*Writing Down the Bones*](https://nataliegoldberg.com/books/writing-down-the-bones/) by Natalie Goldberg, taught me about the habit of writing.
 
-Paul Graham is sharp about many things including [writing](http://www.paulgraham.com/writing44.html).
+Paul Graham is sharp about many things including [writing](http://www.paulgraham.com/writing44.html), and he thinks [writing will only become more important with AI](https://www.paulgraham.com/writes.html).
 
 David Perell translates writing into the 21st century, follow his [twitter](https://twitter.com/david_perell).
 
-### Machine Learning and AI
-
-AI is a powerful technology that is taking the world by storm. For me, learning Machine Learning has been challenging and rewarding. 
+### AI
+AI is important and complex, but it is not impenetrable.
 
 For the non-technical, here is [a fun illustration of how Random Tree predictive models work](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/). This is not the type of "modern AI" (i.e. deep learning) that powers Chat GPT or self-driving cars. But this is still one of the most accurate and important predictive techniques in use today, and this illustration is an approachable way to understand how computers find patterns in data - which is the essence of machine learning. 
 
-Python is probably the coding language you want to learn if you want to get into machine learning. [*Learn python the hard way*](https://learnpythonthehardway.org) follows the philosophy that the hard way is the easy way. They're right.
+For those who want an intuition of how "modern AI" works, [3blue1brown](https://www.3blue1brown.com/topics/neural-networks) explains really well how to think about what the math is doing without doing any actual math.
 
-[A primer](https://elitedatascience.com/primer) that provides a broad framework for how to do data science.
+Karpathy is one of the luminaries of the field and he has a gift for teaching, his [deep dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) is the perfect mix of simplicity and detail.
 
-[machinelearningmastery.com](https://machinelearningmastery.com) teaches machine learning with a similar philosophy to *Learn python the hard way*.
+Python is probably the coding language you want to learn if you want to get into machine learning. [*Learn python the hard way*](https://learnpythonthehardway.org) follows the philosophy that the hard way to learn code, literally typing stuff, is actually the easy way. They're right. [machinelearningmastery.com](https://machinelearningmastery.com) teaches machine learning with a similar philosophy to *Learn python the hard way*. Karpathy's [Zero to Hero](https://karpathy.ai/zero-to-hero.html) is that for neural nets. 
 
-You'll probably need access to some data:
-1. https://www.kaggle.com/datasets
-2. https://archive.ics.uci.edu/ 
+A good one stop shop for learning AI is from Andriy Burkov, [The Hundred-Page Language Model Book](https://www.thelmbook.com/).
 
-For more theory the acclaimed [Andrew Ng](https://www.deeplearning.ai/) explains concepts clearly, but still ties it back to practicalities. [*Deep Learning*](https://www.deeplearningbook.org/) is perhaps the go-to for a mathematically rigorous introductory textbook on Deep Learning (of course), and it's free.
-
-Andreesen Horowitz is an important venture capital fund that has kept a close eye on AI for years, they've done a good job of collecting what they consider [the canonical documents on modern AI as of 2023](https://a16z.com/ai-canon/).
+Andreessen Horowitz is an important venture capital fund that has kept a close eye on AI for years, they've done a good job of collecting what they consider [the canonical documents on modern AI as of 2023](https://a16z.com/ai-canon/). Make your way through this, you've got a real strong foundation.
 
 Lastly and perhaps most importantly, much thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but. 
