@@ -7,7 +7,7 @@ permalink: /resources/
 ### Product Management
 People often ask "What *is* a product manager?". [Shreyas Doshi]((https://x.com/shreyas/status/1477797445169860610?lang=en) says the role is to "define the product & orchestrate actions across the org to enable its success". 
 
-Another question we can ask is "*Why* do product managers exist?" Because of consumer choice. When the industrial age created consumer choice, companies needed to provide differentiated value through R&D and marketing - [the brand and the brand manager were born](https://en.wikipedia.org/wiki/Procter_%26_Gamble). The internet age has exploded consumer choice even further. [User experience is critical to software](https://stratechery.com/2015/aggregation-theory/), therefore, the customer voice must be embedded deeply into software development - that's why software product managers exist.
+Another question we can ask is "*Why* do product managers exist?" Because of consumer choice. When the industrial age created consumer choice, companies needed to provide differentiated value through R&D and marketing - [the brand and the brand manager were born](https://en.wikipedia.org/wiki/Procter_%26_Gamble). [User experience is therefore critical to software]((https://stratechery.com/2015/aggregation-theory/), and the customer voice must be embedded deeply into software development - that's why software product managers exist.
 
 Ken Norton's [classic essay on how to hire product managers](https://www.bringthedonuts.com/essays/productmanager.html) doubles as instructions on how to be hired.
 
