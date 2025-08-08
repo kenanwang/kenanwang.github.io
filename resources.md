@@ -45,6 +45,6 @@ Python is probably the coding language you want to learn if you want to get into
 
 A good one stop shop for learning AI is from Andriy Burkov, [The Hundred-Page Language Model Book](https://www.thelmbook.com/).
 
-Andreessen Horowitz is an important venture capital fund that has kept a close eye on AI for years, they've done a good job of collecting what they consider [the canonical documents on modern AI as of 2023](https://a16z.com/ai-canon/). Make your way through this, you've got a real strong foundation.
+Andreessen Horowitz is an important venture capital fund that has kept a close eye on AI for years, they've done a good job of collecting what they consider [the canonical documents on modern AI as of 2023](https://a16z.com/ai-canon/). Make your way through this and you'll have a strong foundation.
 
 Lastly and perhaps most importantly, much thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but. 
