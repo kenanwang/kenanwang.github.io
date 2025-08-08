@@ -41,7 +41,7 @@ For those who want an intuition of how "modern AI" works, [3blue1brown](https://
 
 Karpathy is one of the luminaries of the field and he has a gift for teaching, his [deep dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) is the perfect mix of simplicity and detail.
 
-Python is probably the coding language you want to learn if you want to get into machine learning. [*Learn python the hard way*](https://learnpythonthehardway.org) follows the philosophy that the hard way to learn code, literally typing stuff, is actually the easy way. They're right. [machinelearningmastery.com](https://machinelearningmastery.com) teaches machine learning with a similar philosophy to *Learn python the hard way*. Karpathy's [Zero to Hero](https://karpathy.ai/zero-to-hero.html) is that for neural nets. 
+Python is probably the coding language you want to learn if you want to get into machine learning. [*Learn python the hard way*](https://learnpythonthehardway.org) follows the philosophy that the hard way to learn code, literally typing stuff, is actually the easy way. They're right. [machinelearningmastery.com](https://machinelearningmastery.com) teaches machine learning with a similar philosophy. Karpathy's [Zero to Hero](https://karpathy.ai/zero-to-hero.html) is that for neural nets. 
 
 A good one stop shop for learning AI is from Andriy Burkov, [The Hundred-Page Language Model Book](https://www.thelmbook.com/).
 
