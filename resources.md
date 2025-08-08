@@ -35,9 +35,9 @@ David Perell translates writing into the 21st century, follow his [twitter](http
 ### AI
 AI is important and complex, but it is not impenetrable.
 
-For the non-technical, here is [a fun illustration of how Random Tree predictive models work](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/). This is not the type of "modern AI" (i.e. deep learning) that powers Chat GPT or self-driving cars. But this is still one of the most accurate and important predictive techniques in use today, and this illustration is an approachable way to understand how computers find patterns in data - which is the essence of machine learning. 
+For the non-technical, here is [a fun illustration of how Random Tree predictive models work](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/). This is not the type of "modern AI" (i.e. deep learning) that powers Chat GPT or self-driving cars. But Random Tree Models are still one of the most accurate and important predictive techniques in use today, and this illustration is an approachable way to understand how computers find patterns in data - which is the essence of machine learning. 
 
-For those who want an intuition of how "modern AI" works, [3blue1brown](https://www.3blue1brown.com/topics/neural-networks) explains really well how to think about what the math is doing without doing any actual math.
+For those who want an intuition of how "modern AI" works, [3blue1brown](https://www.3blue1brown.com/topics/neural-networks) explains really well how to think about the math behind neural nets without doing any actual math.
 
 Karpathy is one of the luminaries of the field and he has a gift for teaching, his [deep dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) is the perfect mix of simplicity and detail.
 
