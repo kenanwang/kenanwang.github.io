@@ -32,7 +32,7 @@ Paul Graham is sharp about many things including [writing](http://www.paulgraham
 
 David Perell translates writing into the 21st century, follow his [twitter](https://twitter.com/david_perell).
 
-### AI
+### Artificial Intelligence
 AI is important and complex, but it is not impenetrable.
 
 For the non-technical, here is [a fun illustration of how Random Tree predictive models work](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/). This is not the type of "modern AI" (i.e. deep learning) that powers Chat GPT or self-driving cars. But Random Tree Models are still one of the most accurate and important predictive techniques in use today, and this illustration is an approachable way to understand how computers find patterns in data - which is the essence of machine learning. 
