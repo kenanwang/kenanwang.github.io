@@ -9,7 +9,7 @@ People often ask "What *is* a product manager?". [Shreyas Doshi](https://x.com/s
 
 Another question we can ask is "*Why* do product managers exist?" Because of consumer choice. When the industrial age created consumer choice, companies needed to provide differentiated value through R&D and marketing - [the brand and the brand manager were born](https://en.wikipedia.org/wiki/Procter_%26_Gamble). Consumer choice exploded even further with the internet age. [User experience is therefore critical to software](https://stratechery.com/2015/aggregation-theory/), and the customer voice must be embedded deeply into software development - that's why software product managers exist.
 
-The canonical book in the space is Marty Cagan's [*Inspired*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507). The canonical newsletter is [Lenny's Newsletter](https://www.lennysnewsletter.com/). They serve is a nice Yin-Yang to each other, *Inspired* is more theoretical, Lenny's Newsletter is more practical.
+The canonical book in the space is Marty Cagan's [*Inspired*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507). The canonical newsletter is [Lenny's Newsletter](https://www.lennysnewsletter.com/). They serve is a nice Yin-Yang to each other: *Inspired* is more theoretical, Lenny's Newsletter is more practical.
 
 Ken Norton's [classic essay on how to hire product managers](https://www.bringthedonuts.com/essays/productmanager.html) doubles as instructions on how to be hired.
 
