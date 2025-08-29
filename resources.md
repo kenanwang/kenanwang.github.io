@@ -17,7 +17,7 @@ From the perspective of an investor-founder, Michael Seibel breaks down [buildin
 
 A lot of product training sucks, [Jeff Patton's course](https://jpattonassociates.com/) does not, it's great.
 
-Strategic thinking is key to product management, [*Good Strategy / Bad Strategy*](https://a.co/d/fYfWCyJ) is a defining modern text on the subject. Ben Thompson's [Statechery blog and podcast](https://stratechery.com/concepts/) analyzes tech news with a strategic lens.
+I said that product managers exist because of consumer choice, the way to break through that is to provide unique value. [7 Powers: The Foundations of Business Strategy](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319) describes how companies develop and maintain unique value in a market i.e. how they compete. To add to this, Ben Thompson's [Statechery blog and podcast](https://stratechery.com/concepts/) analyzes tech news with a strategic lens.
 
 If you are an enterprise product manager it pays to understand how companies ensure productivity, there is no better book on this than [*High Output Management*](https://a.co/d/aF67BI5).
 
