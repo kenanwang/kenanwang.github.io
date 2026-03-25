@@ -15,9 +15,9 @@ Two truisms of software are change and speed, therefore software product manager
 
 Much of my career has been at start ups. From the perspective of an investor-founder, Michael Seibel breaks down [building products at start ups](https://www.youtube.com/watch?v=C27RVio2rOs) with great clarity.
 
-Lastly, product managers are judged in the end by what gets shipped, [*High Output Management*](https://a.co/d/aF67BI5) describes how to create productive teams. [Making Things Happen](https://www.amazon.com/Making-Things-Happen-Mastering-Management/dp/0596517718/) gets into the nitty gritty of software project management, which product managers must be at least familiar with. 
+Lastly, product managers are judged in the end by what gets shipped, [*High Output Management*](https://a.co/d/aF67BI5) describes how to create productive teams. [*Making Things Happen*](https://www.amazon.com/Making-Things-Happen-Mastering-Management/dp/0596517718/) gets into the nitty gritty of software project management, which product managers must be capable in. 
 
-Couple interesting product managers to follow are: [Shreyas Doshi](https://x.com/shreyas), and [Lenny's Newsletter](https://www.lennysnewsletter.com/).
+A couple interesting product managers to follow are: [Shreyas Doshi](https://x.com/shreyas), and [Lenny's Newsletter](https://www.lennysnewsletter.com/).
 
 ### Writing
 Good writing produces good thinking.
