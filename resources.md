@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 ### Product Management
-Product managers decide what should be built to create and keep customers; and coordinate activities from R&D through marketing to ensure the overall success of the product.
+Product managers decide what should be built to create and keep customers; and coordinate activities from R&D through marketing to ensure the overall success of product(s).
 
 All this starts with understanding the [outcomes that customers want](https://www.christenseninstitute.org/theory/jobs-to-be-done/), mapping that downstream to positive impacts for the company (ROIC and growth), and mapping that upstream to [inputs that their team can control](https://commoncog.com/goodharts-law-not-useful/). To do this product managers must have [customer, business, and technical savvy](https://commoncog.com/business-expertise/). 
 
