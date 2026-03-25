@@ -5,9 +5,11 @@ permalink: /resources/
 ---
 
 ### Product Management
-Product managers decide what should be built to create and keep customers. To do so, they must understand the [outcomes that customers want](https://www.christenseninstitute.org/theory/jobs-to-be-done/), map that upstream to positive impacts for the company (ROIC and growth), and map that downstream to [inputs that the team can control](https://commoncog.com/goodharts-law-not-useful/).  For these reasons, product managers must have [customer, business, and technical savvy](https://commoncog.com/business-expertise/). 
+Product managers decide what should be built to create and keep customers, and organize activities from R&D through marketing to ensure the success of the product. 
 
-Product companies face tough competition, therefore product management is fundamentally strategic. [*7 Powers*](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319) is a strong introduction to business strategy. To add to this, Ben Thompson's [Statechery blog](https://stratechery.com/concepts/) analyzes tech news with a strategic lens.
+All this starts with understanding the [outcomes that customers want](https://www.christenseninstitute.org/theory/jobs-to-be-done/), mapping that downstream to positive impacts for the company (ROIC and growth), and mapping that upstream to [inputs that their team can control](https://commoncog.com/goodharts-law-not-useful/). To do this product managers must have [customer, business, and technical savvy](https://commoncog.com/business-expertise/). 
+
+Since product companies face tough competition, product management is fundamentally strategic. [*7 Powers*](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319) is a strong introduction to business strategy. To add to this, Ben Thompson's [Statechery blog](https://stratechery.com/concepts/) analyzes tech news with a strategic lens.
 
 Two truisms of software are change and speed, therefore software product managers operate under high uncertainty. Marty Cagan's [*Inspired*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) describes how to make smarter bets, and is the canonical book on solving this core problem. Furthermore, the organization must be setup to [operate with agility](https://hbr.org/1986/01/the-new-new-product-development-game).
 
