@@ -5,23 +5,17 @@ permalink: /resources/
 ---
 
 ### Product Management
-A product is something one person builds to help another person acheive something, an outcome. The industrial revolution allowed products to be built at scale. This is even [more true in the digital age](https://stratechery.com/2015/aggregation-theory/). 
+Product managers decide what should be built to create and keep customers. To do so, they must understand the [outcomes that customers want](https://www.christenseninstitute.org/theory/jobs-to-be-done/), map that upstream to positive impacts for the company (ROIC and growth), and map that downstream to [inputs that the team can control](https://commoncog.com/goodharts-law-not-useful/).  For these reasons, product managers must have [customer, business, and technical savvy](https://commoncog.com/business-expertise/). 
 
-The result is customer choice. In this competitive environment, companies survive by creating unique value through [R&D and by building brand loyalty](https://en.wikipedia.org/wiki/Procter_%26_Gamble). But, the activities of the product company from R&D through marketing must be organized around [outcomes that customers want](https://www.christenseninstitute.org/theory/jobs-to-be-done/). 
+Product companies face tough competition, therefore product management is fundamentally strategic. [*7 Powers*](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319) is a strong introduction to business strategy. To add to this, Ben Thompson's [Statechery blog](https://stratechery.com/concepts/) analyzes tech news with a strategic lens.
 
-This is the chief responsibility of the Product Manager. [Shreyas Doshi](https://x.com/shreyas/status/1477797445169860610?lang=en) says the role is to "define the product & orchestrate actions across the org to enable its success".
+Two truisms of software are change and speed, therefore software product managers operate under high uncertainty. Marty Cagan's [*Inspired*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) describes how to make smarter bets, and is the canonical book on solving this core problem. Furthermore, the organization must be setup to [operate with agility](https://hbr.org/1986/01/the-new-new-product-development-game).
 
-The canonical book on software product management is Marty Cagan's [*Inspired*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507). The newsletter every product manager should read is [Lenny's Newsletter](https://www.lennysnewsletter.com/). They serve as nice complements: *Inspired* is more theoretical, Lenny's Newsletter is more practical.
+Much of my career has been at start ups. From the perspective of an investor-founder, Michael Seibel breaks down [building products at start ups](https://www.youtube.com/watch?v=C27RVio2rOs) with great clarity.
 
-Ken Norton's [classic essay on how to hire product managers](https://www.bringthedonuts.com/essays/productmanager.html) doubles as instructions on how to be hired.
+Lastly, product managers are judged in the end by what gets shipped, [*High Output Management*](https://a.co/d/aF67BI5) describes how to create productive teams. [Making Things Happen](https://www.amazon.com/Making-Things-Happen-Mastering-Management/dp/0596517718/) gets into the nitty gritty of software project management, which product managers must be at least familiar with. 
 
-Product management is strategic. [*7 Powers: The Foundations of Business Strategy*](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319) describes how companies disrupt or maintain competitive positions. To add to this, Ben Thompson's [Statechery blog and podcast](https://stratechery.com/concepts/) analyzes tech news with a strategic lens.
-
-From the perspective of an investor-founder, Michael Seibel breaks down [building products at start ups](https://www.youtube.com/watch?v=C27RVio2rOs) with great clarity.
-
-A lot of product training sucks, [Jeff Patton's course](https://jpattonassociates.com/) does not, he teaches you scrum/agile as a framework, a set of practices and most importantly as a mindset, starting from [first principles](https://hbr.org/1986/01/the-new-new-product-development-game).
-
-If you are an enterprise product manager it pays to understand how companies ensure productivity, there is no better book on this than [*High Output Management*](https://a.co/d/aF67BI5).
+Couple interesting product managers to follow are: [Shreyas Doshi](https://x.com/shreyas), and [Lenny's Newsletter](https://www.lennysnewsletter.com/).
 
 ### Writing
 Good writing produces good thinking.
@@ -35,16 +29,18 @@ Paul Graham is sharp about many things including [writing](http://www.paulgraham
 David Perell translates writing into the 21st century, follow his [twitter](https://twitter.com/david_perell).
 
 ### Artificial Intelligence
-AI is important and complex, but it is not impenetrable.
+AI is complex, but it is not impenetrable.
 
 For the non-technical, here is [a fun illustration of how Random Tree predictive models work](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/). This is not the type of "modern AI" that powers ChatGPT or self-driving cars. But this illustration is an approachable way to intuit how computers find patterns in data, which is the essence of machine learning. 
 
-For those who want a deeper mathematical intuition of how "modern AI" works, [3blue1brown](https://www.3blue1brown.com/topics/neural-networks) is a great source for this, all done without any actual numbers.
+For those who want a deeper mathematical intuition of how "modern AI" works, [3blue1brown](https://www.3blue1brown.com/topics/neural-networks) is a great source for this, done without any actual numbers.
 
-Karpathy is one of the luminaries of the field and he has a gift for teaching, his [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) is a perfect mix of simplicity and detail. He also has a course on neural nets called [Zero to Hero](https://karpathy.ai/zero-to-hero.html).
+Karpathy is one of the luminaries of the field and he has a passion for teaching, his [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) is a perfect mix of simplicity and detail. He also has a course on neural nets called [Zero to Hero](https://karpathy.ai/zero-to-hero.html).
 
-If you don't yet know how to code, start with python. [*Learn python the hard way*](https://learnpythonthehardway.org) follows the philosophy that the hard way to learn code, literally typing stuff, is actually the easy way. They're right.
+If you don't yet know how to code, python is the way to go for AI. [*Learn python the hard way*](https://learnpythonthehardway.org) follows the philosophy that the hard way to learn to code, literally typing stuff, is actually the easy way. They're right.
 
 Andreessen Horowitz is an important venture capital fund that has kept a close eye on AI for years, they've done a good job of collecting what they consider [the canonical documents on modern AI as of 2023](https://a16z.com/ai-canon/). Many useful resources there.
 
-Lastly and perhaps most importantly, much thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but. 
+The theoretical possibilities of LLM agents, and the proof point of coding agents is creating an explosion of interest in AI agent technology. This [Language Agents tutorial](https://language-agent-tutorial.github.io/) provides a good foundation from which to distinguish what is real from what is hype.
+
+Lastly this AI technology is powerful and will reshape society in good ways and bad. Most thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but. 
