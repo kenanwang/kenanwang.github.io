@@ -43,4 +43,4 @@ Andreessen Horowitz is an important venture capital fund that has kept a close e
 
 The theoretical possibilities of LLM agents, and the proof point of coding agents is creating an explosion of interest in AI agent technology. This [Language Agents tutorial](https://language-agent-tutorial.github.io/) provides a good foundation from which to distinguish what is real from what is hype.
 
-Lastly this AI technology is powerful and will reshape society in good ways and bad. Most thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but. 
+Lastly, AI technology is powerful and will reshape society in good ways and bad. Most thinking on AI ethics is shallow, [Vervaeke](https://a.co/d/74PrAf2) is anything but.
