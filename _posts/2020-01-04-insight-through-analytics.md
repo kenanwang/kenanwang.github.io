@@ -6,7 +6,7 @@ tags: [Business]
 ---
 
 At the Wikimedia Foundation we had a major success in my department during my time there. For years the most pressing issue was a decline in the number of active editors, people who edited 5 or more times in a month. As many of you know, Wikipedia is crowdsourced, so it is these editors who create the articles on Wikipedia. Since the end of 2007 that number had been going down.
-![active editors](https://stats.wikimedia.org/EN/PlotEditorsEN.png){: width="100%" style="margin: 20px 0px 10px 0px"}
+![active editors](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Monthly_active_editors.by_strategy.enwiki.svg/3840px-Monthly_active_editors.by_strategy.enwiki.svg.png){: width="100%" style="margin: 20px 0px 10px 0px"}
 
 There were two main theories why why the number of active editors was going down:
 1. Between 2004 and 2007 Wikipedia became popular, very popular. Popular enough that vandalism became a thing on Wikipedia, and Wikipedia was important enough that this vandalism had real reach. A journalist named John Seigenthaler had a fake and negative article written about him [for example](https://en.wikipedia.org/wiki/List_of_Wikipedia_controversies#2005). And the incidents only increased in frequency. In response to this Wikipedia editors started to organically create rules and even bureaucracy to stop this kind of abuse of the site. The rules and bureaucracy worked, but they also made it harder to become an editor. Today if you want to edit Wikipedia you need to learn quite a few rules and customs to really feel comfortable on the site.
