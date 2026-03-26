@@ -5,7 +5,7 @@ categories: [End to End Projects, SQL]
 tags:
 ---
 This comes from an interview task for a data analyst position at Wikipedia. I thought it would be good practice for working with SQL, product analysis, and data visualization/reporting.
-![image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wikipedia-logo-v2-en.svg/1920px-Wikipedia-logo-v2-en.svg.png){: width="100%" style="margin:20px 0px 0px 0px"}
+![wikilogo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wikipedia-logo-v2-en.svg/1920px-Wikipedia-logo-v2-en.svg.png){: width="100%" style="margin:20px 0px 0px 0px"}
 
 ## Data as SQL
 I took the data which was originally delivered in CSV and uploaded it to an AWS RDS instance so that I could simulate real world working conditions more closely. To do so I had to run a little bit of cleaning:
