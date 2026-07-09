@@ -1,0 +1,43 @@
+---
+layout: post
+title: LLM research
+categories: [AI]
+tags: [Business]
+---
+I spent the afternoon reading through Andrej Karpathy's [reading list](https://www.kaggle.com/discussions/general/461152) of key LLM research papers:
+
+1. Attention is all you need
+
+2. Language Models are Unsupervised Multitask Learners (GPT-2)
+
+3. Training Language Models to Follow Instructions (InstructGPT)
+
+4. Llama 2: Open Foundation and Fine-Tuned Chat Models
+
+5. RLAIF: Scaling Reinforcement Learning from Human Feedback with AI
+
+6. Training Compute Optimal Language Models
+
+7. Sparks of Artificial General Intelligence: Early Experiments with GPT-4
+
+The papers are actually quite readable, and they tell a story:
+
+The Transformer architecture is probably the only innovation in the whole reading list that I would qualify as scientific. "Attention is all you need" reimagined the way AI reads data from local to global. Transformers could be trained on way more data than previous architectures like RNNs and CNNs.
+
+Training Large Language Models on large amounts of data resulted in a surprising result: they exhibited all sorts of capabilities that they were not trained on. The other great news was that language models did not need supervised training data, which meant that the amount of data that could be thrown at these language models was immense. 
+
+From this innovation and this surprise "the scaling era" began. 
+
+And that progress has really been driven by engineering and organization (hiring people to create training data for the models), to create performance in a way that is compute-efficient:
+* Outsized improvements through Fine-Tuning and Reinforcement Learning when compared to training compute needs
+* A publicly accepted recipe for the end to end training process for LLMs
+* Use LLMs to improve other LLMs
+* Train models with the right number of parameters and the right amount of data
+
+And at successive steps in the scaling up of the models we get increasing confidence that scaling the models will increase performance, and the industry gains confidence in training larger and larger models efficiently given X amount of compute. 
+
+GPT-4 did seem like a genuine inflection-point in the scaling era. 
+
+Since then we've maybe entered a different phase - something like the agentic era. Autonomy and tool use were the great promises of agents. But what seems to have really unlocked the agentic era is again scale but this time at inference time, in addition to the scale at training time that we had before. 
+
+Agent harnesses allow for models or agents to make many pseudo-attempts at solving a given problem, and then picking from the best of these attempts. And the harness prods the models to keep going when a problem hasn't been solved yet. Therefore harnesses enable two capabilities: something like persistence and something like creativity; at the cost of inference tokens. 
