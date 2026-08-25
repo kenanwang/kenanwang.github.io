@@ -4,7 +4,7 @@ title: Enron Anomaly Detection using Neural Network Analysis
 categories: [End to End Projects]
 tags:
 ---
-In this project I am replicating analysis from a research paper found below. This project looks at the activity of a social network as activity in a neural network. Then it attempts to look at "memories" inside of that network and treat the most prominent memories in that network as anomalies in the activity of that social network.
+In this project I am replicating analysis from a research paper found below on Hopfield memory networks. Hopfield memory networks are physics inspired neural networks, whose success [inspired the creation of deep neural networks](https://www.quantamagazine.org/the-strange-physics-that-gave-birth-to-ai-20250430/). This project models the activity of a social network as activity in a neural network. Then it attempts to look at "memories" inside of that network and treat the most prominent memories in that network as anomalies in the activity of that social network.
 ![image.png](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNkSJCq7BVSo/v0/1200x-1.jpg){: width="100%" style="margin:20px 0px 0px 0px"}
 Photographer: James Nielsen/Getty Images
 
